@@ -10,7 +10,7 @@ const person = {
 };
 console.log(person.greet());
 
-const person = {
+const person3 = {
   name: "GeeksforGeeks",
   greet() {
     return `Welcome To, ${this.name}`;
